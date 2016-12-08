@@ -167,4 +167,4 @@
   $(function() {
     setTimeout(scroller, 0);
   });
-})(jQuery);
+});
